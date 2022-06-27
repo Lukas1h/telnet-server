@@ -1,0 +1,25 @@
+{
+  "name": "termimg",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": "16.13.1"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-to-ascii": "^3.0.13",
+    "node-fetch": "^3.2.6",
+    "prompt-sync": "^4.2.0",
+    "terminal-image": "^2.0.0",
+    "unsplash-js": "^7.0.15",
+    "youtube-dl": "^3.5.0",
+    "youtube-dl-exec": "^2.0.12"
+  }
+}
